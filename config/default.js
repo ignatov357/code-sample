@@ -7,6 +7,6 @@ module.exports = {
   },
   scrapping: {
     listOfUsersFilePath: `${appRoot}/app-data/users.json`,
-    scrappingInterval: 2 * 1000,
+    scrappingInterval: 60 * 1000,
   },
 };
